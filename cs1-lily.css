@@ -1,0 +1,81 @@
+.cs1lily-header {background-color: var(--colore-primario); height: 35px; padding: 10px; color: var(--colore-bianco); width: 655px;}
+.cs1lily-hdr-icons {float: right; padding: 4px; opacity: 0.7; width: 102px; font-size: 24px;}
+.cs1lily-hdr-minus {margin-right: 4px;}
+.cs1lily-hdr-clone {margin-left: 9px;}
+.cs1lily-hdr-xmark {margin-left: 10px;}
+.cs1lily-hdr-tab1 {float: left; padding: 0 5px; opacity: 0.4; font-family: 'Quicksand'; font-size: 24px; line-height: 35px; color: var(--colore-bianco); background: var(--colore-primario); border-radius: 8px 8px 0px 0px; text-shadow: 0px 1px 0px var(--colore-accento-scuro);}
+.cs1lily-hdr-tab2 {float: left; padding: 0 5px; opacity: 0.4; font-family: 'Quicksand'; font-size: 24px; line-height: 35px; color: var(--colore-bianco); background: var(--colore-primario); border-radius: 8px 8px 0px 0px; margin-left: 9px;}
+.cs1lily-hdr-tab-icon1 {margin-right: 7px; font-size: 19px; color: var(--colore-bianco);}
+.cs1lily-hdr-tab-icon2 {margin-right: 7px; font-size: 19px; color: var(--colore-bianco); margin-left: 4px;}
+.cs1lily-hdr-link {color: var(--colore-bianco); font-weight: bold; font-family: 'Quicksand'; font-size: 24px; line-height: 35px; text-transform: lowercase;}
+.cs1lily-body {width: 645px; height: auto; background-color: var(--colore-sfondo-chiaro); padding: 12px; font-family: 'Raleway'; padding-right: 18px;}
+.cs1lily-cal-box {width: 145px; height: 160px; padding: 16px; font: 9px quicksand; letter-spacing: 1px; color: var(--colore-sfondo-caldo); text-transform: uppercase; font-weight: bold; box-shadow: 0px 3px 20px 2px var(--colore-ombre); border-radius: 11px; background: var(--colore-sfondo-chiaro); margin-bottom: 10px;}
+.cs1lily-cal-icon-wrap {font-size: 14px; background: var(--colore-accento-scuro); border-radius: 60px; padding: 7px; width: 16px;}
+.cs1lily-icon-wml2 {color: var(--colore-bianco); margin-left: 2px;}
+.cs1lily-cal-weekday {font-family: 'slowsmoke'; font-size: 30px; color: var(--colore-testo-scuro); text-transform: lowercase; letter-spacing: 2px; line-height: 19px; font-weight: bold; text-align: center; margin-top: 6px;}
+.cs1lily-cal-date {font-family: verdana; font-size: 13px; color: var(--colore-ombre); text-transform: uppercase; letter-spacing: 2px; line-height: 15px; font-weight: bold; text-align: center;}
+.cs1lily-cal-tag {font-family: 'Quicksand'; font-size: 8px; color: var(--colore-bianco); text-transform: uppercase; letter-spacing: 0px; line-height: 13px; background: var(--colore-accento-scuro); text-align: end; margin-bottom: 8px; padding-top: 3px; padding-bottom: 4px; border-radius: 4px; margin-top: 3px; padding-right: 3px;}
+.cs1lily-cal-tag-sm {font-family: 'Quicksand'; font-size: 8px; color: var(--colore-bianco); text-transform: uppercase; letter-spacing: 0px; line-height: 13px; background: var(--colore-accento-scuro); text-align: end; margin-bottom: 4px; padding-top: 3px; padding-bottom: 4px; border-radius: 4px; margin-top: 3px; padding-right: 3px;}
+.cs1lily-icon-tag-left {float: left; margin: 2px; padding: 0px; margin-left: 5px;}
+.cs1lily-cal-tomorrow {font-family: verdana; font-size: 11px; color: var(--colore-accento-scuro); text-transform: uppercase; letter-spacing: 2px; line-height: 19px; font-weight: bold; text-align: center;}
+.cs1lily-spotify-box {width: 132px; height: 133px; padding: 23px; letter-spacing: 1px; color: var(--colore-bianco); font-weight: bold; box-shadow: 0px 3px 20px 2px var(--colore-ombre); border-radius: 11px; background: var(--colore-accento-scuro); margin-top: 4px;}
+.cs1lily-spotify-tbl1 {margin-top: 1px;}
+.cs1lily-spotify-img-inner {padding-left: 0px; margin-top: 3px;}
+.cs1lily-spotify-img {background-image: url(https://64.media.tumblr.com/9a8b971f72e1ec2eac1efc74d27a1998/232a4bb1e0aaba00-0f/s1280x1920/5638d8cce53cf9485d3e1c5e477f1724822174cd.jpg); background-position-y: center; width: 100px; height: 100px; background-size: 100px; border-radius: 13px;}
+.cs1lily-spotify-icon-td {color: var(--colore-sfondo-chiaro); font-weight: bold; padding-left: 0px;}
+.cs1lily-spotify-icon-div {font-size: 34px; padding: 7px; margin-bottom: 0px;}
+.cs1lily-spotify-brand-i {color: var(--colore-sfondo-chiaro); margin-left: 0px;}
+.cs1lily-spotify-track-tbl {width: 135px; margin-top: 0px;}
+.cs1lily-spotify-title-td {font-size: 7px; width: 33%; color: var(--colore-bianco); font-weight: bold; text-transform: uppercase; font-family: 'Muli';}
+.cs1lily-spotify-time-td {font-size: 11px; width: 0%; color: var(--colore-bianco); font-weight: bold; padding-right: 4px;}
+.cs1lily-spotify-artist-td {font-size: 11px; width: 78%; color: var(--colore-bianco); line-height: 0px;}
+.cs1lily-notif-bar {width: 440px; font-family: verdana; font-size: 18px; background-color: var(--colore-sfondo-caldo); margin-top: 11px; padding-top: 0px; text-align: center; color: var(--colore-bianco); letter-spacing: 2px; border-radius: 12px; margin-bottom: 4px; padding: 9px; margin-left: 4px; height: 45px; line-height: 31px;}
+.cs1lily-notif-tbl {width: 465px;}
+.cs1lily-notif-bell-td {width: 9%; font-size: 31px; background: var(--colore-sfondo-caldo); border-radius: 20px;}
+.cs1lily-notif-count-td {width: 5%;}
+.cs1lily-notif-count {font-size: 11px; padding-bottom: 6px;}
+.cs1lily-notif-text-td {padding: 4px; font-size: 18px; font-family: 'Quicksand';}
+.cs1lily-info-tbl {width: 460px;}
+.cs1lily-tag-home {font-size: 13px; background: var(--colore-accento-scuro); border: 3px solid var(--colore-accento-scuro); border-radius: 19px; width: 3%; color: var(--colore-bianco); padding-left: 7px; padding-right: 1px; padding-bottom: 3px; padding-top: 3px; font-weight: bold;}
+.cs1lily-tag-info {font-size: 13px; background: var(--colore-secondario); border: 3px solid var(--colore-secondario); border-radius: 19px; color: var(--colore-bianco); padding-left: 7px; padding-right: 1px; padding-bottom: 3px; padding-top: 3px; font-weight: bold;}
+.cs1lily-tag-icon {margin-right: 7px;}
+.cs1lily-textbox {width: 220px; background-color: var(--colore-sfondo-chiaro); height: 142px; margin-bottom: 6px; font-family: 'Quicksand'; padding: 11px; color: var(--colore-accento-scuro); font-size: 11px; line-height: 12px; margin-top: 4px; overflow: auto; border-radius: 5px;}
+.cs1lily-sec-hdr {font-family: verdana; font-size: 10px; color: var(--colore-bianco); text-transform: uppercase; letter-spacing: 0px; line-height: 13px; background: var(--colore-accento-scuro); text-align: end; margin-bottom: 8px; font-weight: bold; padding-top: 3px; padding-bottom: 4px; border-radius: 4px; margin-top: 3px; padding-right: 3px; box-shadow: 2px 3px 0px 0px var(--colore-ombre);}
+.cs1lily-aspect-box {width: 220px; background-color: var(--colore-sfondo-caldo); height: 77px; font-family: 'Quicksand'; padding: 9px; color: var(--colore-accento-scuro); font-size: 11px; line-height: 12px; margin-top: 0px; overflow: auto; border-radius: 5px; border: 3px solid var(--colore-sfondo-caldo);}
+.cs1lily-box-title {font-family: 'Quicksand'; font-size: 14px; color: var(--colore-accento-caldo); text-transform: uppercase; letter-spacing: 0px; font-weight: bold; text-align: center; text-shadow: 0px 1px 0px var(--colore-accento-caldo);}
+.cs1lily-gif {opacity: 1; filter: alpha(opacity=50); background-size: cover; border-radius: 13px; border: 9px solid var(--colore-accento-caldo);}
+.cs1lily-gif1 {width: 195px; height: 180px; background-position-y: top; background-position-x: center; background-image: url(https://64.media.tumblr.com/09464800c987ebfaae9eb26c43e8345d/b6c524099c47a31d-9b/s540x810/903f835ab58fd2afd483cd4a897b5d2fd9bd2f1e.gif);}
+.cs1lily-gif2 {width: 195px; height: 180px; background-position-x: center; background-image: url(https://64.media.tumblr.com/31bb90fedd29a77cf829f750c9a6abb1/b6c524099c47a31d-3a/s540x810/78cfd4cc54bb5952789f415209d4cd585bb07493.gif);}
+.cs1lily-gif3 {width: 180px; height: 180px; background-position-y: center; background-position-x: center; background-image: url(https://64.media.tumblr.com/54e2b35a12c1dff32f5ef31caeea0c6b/b6c524099c47a31d-a6/s540x810/c2b60b06c8feef7e258f1297c81c21940594bf41.gif);}
+.cs1lily-gif4 {width: 195px; height: 140px; background-position-x: center; background-image: url(https://64.media.tumblr.com/7d5e5877d3b07f811a39251f1b015e68/b6c524099c47a31d-e8/s540x810/21dacec97d2a1e1de7adab106e0b4246adce9c38.gif);}
+.cs1lily-gif-overlay {padding-top: 135px;}
+.cs1lily-gif-overlay-sm {padding-top: 96px;}
+.cs1lily-gif-controls {background: var(--colore-overlay); padding: 3px; border-radius: 8px; padding-top: 6px; padding-left: 4px; padding-right: 4px; width: 44px; float: right; margin-top: 11px; margin-right: 10px;}
+.cs1lily-ctrl-icon {color: var(--colore-bianco); margin: 2px;}
+.cs1lily-ctrl-icon-ml {color: var(--colore-bianco); margin: 2px; margin-left: 4px;}
+.cs1lily-name {font-family: 'Roboto'; font-size: 48px; color: var(--colore-primario); text-transform: lowercase; letter-spacing: 0px; font-weight: bold; text-align: center; line-height: 31px; text-shadow: 0px 1px 0px var(--colore-primario);}
+.cs1lily-tbl-mt2 {margin-top: 2px;}
+.cs1lily-char-box {width: 206px; background-color: var(--colore-sfondo-caldo); height: 127px; font-family: 'Quicksand'; padding: 9px; color: var(--colore-accento-scuro); font-size: 11px; line-height: 13px; margin-top: 4px; overflow: auto; border: 3px solid var(--colore-sfondo-caldo); border-radius: 6px 7px 0px 0px;}
+.cs1lily-social-bar {margin-top: 0px; background: var(--colore-sfondo-caldo); width: 229px; border: 3px solid var(--colore-sfondo-caldo); border-radius: 0px 0px 6px 6px;}
+.cs1lily-social-td1 {font-size: 18px; color: var(--colore-sfondo-chiaro); font-weight: bold;}
+.cs1lily-social-comment {padding: 9px; padding-right: 2px; padding-left: 13px;}
+.cs1lily-social-td2 {font-size: 19px; color: var(--colore-sfondo-chiaro); font-weight: bold;}
+.cs1lily-social-td3 {color: var(--colore-sfondo-chiaro); font-weight: bold; padding-left: 7px;}
+.cs1lily-social-heart {float: left; margin: 3px; padding: 0px; font-size: 19px; margin-left: 2px;}
+.cs1lily-social-td4 {font-size: 19px; color: var(--colore-sfondo-chiaro); font-weight: bold; padding-left: 7px;}
+.cs1lily-tbl-mt10 {margin-top: 10px;}
+.cs1lily-about-box {width: 183px; height: 166px; padding: 14px; font: 9px quicksand; letter-spacing: 1px; color: var(--colore-sfondo-caldo); text-transform: uppercase; font-weight: bold; box-shadow: 0px 3px 20px 2px var(--colore-ombre); border-radius: 11px; background: var(--colore-sfondo-chiaro);}
+.cs1lily-about-icon-wrap {font-size: 14px; background: var(--colore-primario); border-radius: 60px; padding: 7px; width: 16px;}
+.cs1lily-about-title {font-family: 'Maven Pro'; font-size: 26px; color: var(--colore-secondario); text-transform: lowercase; letter-spacing: 2px; line-height: 19px; font-weight: bold; text-align: center;}
+.cs1lily-about-subtitle {font-family: verdana; font-size: 13px; color: var(--colore-ombre); text-transform: uppercase; letter-spacing: 2px; line-height: 15px; font-weight: bold; text-align: center;}
+.cs1lily-about-tag {font-family: 'Quicksand'; font-size: 8px; color: var(--colore-bianco); text-transform: uppercase; letter-spacing: 0px; line-height: 13px; background: var(--colore-secondario); text-align: end; margin-bottom: 8px; padding-top: 3px; padding-bottom: 4px; border-radius: 4px; margin-top: 3px; padding-right: 3px;}
+.cs1lily-about-tag-icon {float: left; margin: 2px; padding: 0px; margin-left: 5px; font-size: 12px;}
+.cs1lily-bg-wrap {padding: 30px; background: var(--colore-sfondo-chiaro); border-radius: 12px; margin: 6px; margin-bottom: 6px; font-family: 'Quicksand';}
+.cs1lily-bg-title {font-size: 58px; color: var(--colore-accento-caldo); text-transform: capitalize; letter-spacing: -3px; line-height: 26px; font-weight: 500; text-align: center; font-style: italic; font-family: slowsmoke; margin-bottom: 11px; margin-top: 5px;}
+.cs1lily-bg-icon {float: right; font-size: 24px; margin-left: 14px; background: var(--colore-sfondo-caldo); border-radius: 36px; color: var(--colore-bianco); padding: 8px; -webkit-text-stroke: 1px var(--colore-accento-caldo); -webkit-text-fill-color: transparent; text-shadow: 1px 2px 1px var(--colore-sfondo-caldo); width: 30px;}
+.cs1lily-bg-text {color: var(--colore-ombre); text-align: justify; width: 335px; line-height: 16px; letter-spacing: 0px; overflow: auto; padding: 12px; border-radius: 15px; font-size: 13px; margin-top: 14px; height: 225px;}
+.cs1lily-bg-date-tbl {margin-top: 0px; width: 325px;}
+.cs1lily-bg-bm-td {font-size: 14px; color: var(--colore-bianco); font-weight: bold;}
+.cs1lily-bg-bm-icon {background: var(--colore-sfondo-caldo); padding: 5px;}
+.cs1lily-bg-date-td {font-size: 19px; color: var(--colore-sfondo-chiaro); font-weight: bold;}
+.cs1lily-bg-date-label {font-family: 'creo'; font-size: 10px; color: var(--colore-bianco); text-transform: uppercase; letter-spacing: 0px; line-height: 13px; background: var(--colore-sfondo-caldo); text-align: end; font-weight: bold; padding: 2px;}
